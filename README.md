@@ -1,4 +1,4 @@
-# 🐢 Project: Smart Turtle (Road Crosser)
+# 🐢 Project: Tartaruga Inteligente
 
 Este é um motor de jogo 2D desenvolvido em **Python** utilizando o módulo **Turtle Graphics**. O projeto foi estruturado seguindo princípios de **Orientação a Objetos (POO)** para garantir modularidade e facilidade de manutenção.
 
